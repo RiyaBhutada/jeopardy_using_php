@@ -1,0 +1,29 @@
+<Tech>
+    <Techn point="100" id="1">
+        <Question>What programming language is named after a type of Indonesian coffee?</Question>
+    </Techn>
+    <Techn point="100" id="2">
+        <Question>What was the most downloaded app of the 2010s?</Question>
+    </Techn>
+    <Techn point="100" id="3">
+        <Question>One gigabyte is equal to how many megabytes?</Question>
+    </Techn>
+    <Techn point="400" id="4">
+        <Question>What is the name for a computer virus which replicates itself and uses up all a computer’s processing space?</Question>
+    </Techn>
+    <Techn point="400" id="5">
+        <Question>What is the official name for the “prove you’re not a robot” tests that websites sometimes require?</Question>
+    </Techn>
+    <Techn point="400" id="6">
+        <Question>What does the acronym URL stand for?</Question>
+    </Techn>
+    <Techn point="1000" id="7">
+        <Question>In what year was eBay founded?</Question>
+    </Techn>
+    <Techn point="1000" id="8">
+        <Question>What app has a green owl as the mascot?</Question>
+    </Techn>
+    <Techn point="1000" id="9">
+        <Question>Unicode, the standard for character encoding used to represent multilingual text as binary, is the successor to what US encoding standard?</Question>
+    </Techn>
+</Tech>
